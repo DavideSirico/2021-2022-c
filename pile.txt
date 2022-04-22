@@ -1,0 +1,59 @@
+123456789	n:8
+56789
+789
+1256789		n:4
+125
+5
+
+1345679
+1345679
+1345
+13
+
+adt: abstract data type
+
+stack con un array
+
+ultimo elemento è l'unico che si può togliere
+
+push:inserire
+pop:rimuovere
+
+con le primitive di push e di pop caricare, visualizzare e ricercare in un array
+dimensionato DIM 10 rispettando la struttura adt della pila.
+
+
+0
+1
+2
+3
+4
+5
+6
+l
+
+1 2 3 4 5 6 0 0 0 0 0
+
+push(12938779342)
+
+1 2 3 4 5 6 0 0 0 0
+
+=======================
+
+push=inserisco un elemento
+pop=tolgo un elemento
+isEmpty=controlla se la pila è vuota
+isFull=controlla se la pila è piena
+top=ultimo elemento inserito
+
+
+
+1 2 3 4 5 6 7 8 9 0 0 0
+
+
+
+
+
+
+
+
